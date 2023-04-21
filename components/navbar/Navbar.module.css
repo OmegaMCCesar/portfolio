@@ -1,0 +1,33 @@
+.navbar{
+  display: flex;
+  flex-direction: column;
+  border: 1vh solid white;
+  width: 100%;
+  height: 15vw;
+  border-radius: 1vw;
+  margin-bottom: 1vw;
+}
+
+.container_photo_name{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+}
+
+.imagen_perfil{
+  width: 9vw;
+  border-radius: 50%;
+  border: 0.5vh solid white;
+  margin-top: 1.9vw;
+  margin-bottom: 0;
+}
+
+.title{
+  font-size: 8vw;
+}
+
+.devl{
+  display: flex;
+  font-size: 3vw;
+  justify-content: center;
+}
